@@ -38,19 +38,19 @@
     from {transform: rotate(0deg);}
     to {transform: rotate(360deg);}
 }
+.imagen{
+    overflow: hidden;
+}
 
-.amarillo{
+.amarillo{        
     background-color: yellow;
     height: 20em;
-    background-image: url(../images/oro.jpg);
 }
 .azul{
     background-color: blue;
     height: 13em;
-    background-image: url(../images/mar.jpg);
 }
 .rojo{
     background-color: red;
     height: 8em;
-    background-image: url(../images/sangre.jpg);
 }
