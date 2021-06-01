@@ -42,15 +42,14 @@
     overflow: hidden;
 }
 
-.amarillo{        
-    background-color: yellow;
-    height: 20em;
-}
-.azul{
-    background-color: blue;
-    height: 13em;
+.blanco{        
+    background-color: white;
+    height: 40em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .rojo{
     background-color: red;
-    height: 8em;
+    height: 40em;
 }
